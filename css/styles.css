@@ -1,0 +1,29 @@
+body {
+  background: #fafaee;
+  text-align: center;
+}
+h1 {
+  color: rgb(5, 85, 58);
+  margin-top: 50px;
+}
+p {
+  font-size: 18px;
+}
+.croissant-img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+.links {
+  display: flex;
+  justify-content: center;
+}
+.links a {
+  text-decoration: underline;
+  color: #5f3406;
+  margin: 0 10px;
+}
+.link {
+  padding: 5px;
+}
