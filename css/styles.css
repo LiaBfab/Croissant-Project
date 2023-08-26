@@ -1,14 +1,12 @@
 body {
-  background: #fafaee;
+  background: #fffdfa;
   text-align: center;
+  margin: 10px;
 }
 h1 {
   color: rgb(5, 85, 58);
-  margin-top: 50px;
 }
-p {
-  font-size: 18px;
-}
+
 .croissant-img {
   max-width: 100%;
   border-radius: 10px;
@@ -21,7 +19,7 @@ p {
 }
 .links a {
   text-decoration: underline;
-  color: #5f3406;
+  color: #5c3100;
   margin: 0 10px;
 }
 .link {
